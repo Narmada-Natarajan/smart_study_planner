@@ -59,7 +59,6 @@ A premium study companion that helps you **plan**, **focus**, and **track** your
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
 
 ### 🤖 **Study Assistant**
 - AI-powered study tips & advice
@@ -67,7 +66,7 @@ A premium study companion that helps you **plan**, **focus**, and **track** your
 - Time management strategies
 - Motivation & exam prep tips
 
-</td>
+
 </tr>
 </table>
 
