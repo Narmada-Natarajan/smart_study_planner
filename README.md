@@ -124,18 +124,5 @@ FocusPulse/
 └── package.json
 ```
 
----
-
-## 📸 Screenshots
-
-> The app features a **dark indigo sidebar** with a clean white workspace, gradient cards, animated progress rings, and smooth micro-interactions throughout.
-
----
-
-<div align="center">
-
-### Made with ❤️ for Students
-
-**FocusPulse** — Stay focused. Study smart. Achieve more.
 
 </div>
